@@ -1,0 +1,20 @@
+{
+  "author": "Jose David Baena <josedab@gmail.com>",
+  "name": "agile-backbone-example",
+  "description": "An example of showcasing how git can be used for an agile environment",
+  "version": "0.0.0",
+  "homepage": "https://github.com/josedab/agile-backbone-example",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:josedab/agile-backbone-example.git"
+  },
+  "main": "build/server",
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+    "express": "~2.5.8"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
